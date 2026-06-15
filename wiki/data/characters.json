@@ -1,0 +1,41 @@
+[
+  {
+    "id": "lyra-vane",
+    "category": "characters",
+    "title": "Lyra Vane",
+    "subtitle": "The Lantern-Keeper of Old Sereth",
+    "image": "",
+    "tags": ["protagonist", "sereth", "lantern-order"],
+    "info": {
+      "Race": "Human",
+      "Born": "Year 412, Sereth",
+      "Affiliation": "The Lantern Order",
+      "Status": "Alive"
+    },
+    "body": [
+      { "type": "h2", "text": "Overview" },
+      { "type": "p", "text": "Lyra Vane is the last sworn Lantern-Keeper of the city of [[old-sereth|Old Sereth]], tasked with guarding the flames that hold back the Long Dark. Stubborn and quick-witted, she inherited the role from her grandmother under circumstances she rarely discusses." },
+      { "type": "h2", "text": "History" },
+      { "type": "p", "text": "Raised in the lantern-towers, Lyra trained from childhood to read the moods of the sacred fire. When the [[the-long-dark|Long Dark]] returned in Year 437, she was the only keeper who refused to abandon her post." },
+      { "type": "quote", "text": "A light only matters when something is trying to put it out." }
+    ]
+  },
+  {
+    "id": "corvin-ash",
+    "category": "characters",
+    "title": "Corvin Ash",
+    "subtitle": "Exiled cartographer and reluctant ally",
+    "image": "",
+    "tags": ["ally", "cartographer"],
+    "info": {
+      "Race": "Half-elf",
+      "Born": "Unknown",
+      "Affiliation": "None",
+      "Status": "Alive"
+    },
+    "body": [
+      { "type": "h2", "text": "Overview" },
+      { "type": "p", "text": "A mapmaker who claims to have charted every road out of [[old-sereth|Old Sereth]] — and a few that no longer exist. Corvin's loyalty is hard to win and harder to keep." }
+    ]
+  }
+]

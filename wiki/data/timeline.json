@@ -1,0 +1,30 @@
+[
+  {
+    "id": "first-dark",
+    "category": "timeline",
+    "era": "Year 1",
+    "title": "The First Dark",
+    "body": [{ "type": "p", "text": "The earliest recorded coming of the [[the-long-dark|Long Dark]]. The first lanterns are lit." }]
+  },
+  {
+    "id": "order-founded",
+    "category": "timeline",
+    "era": "Year 110",
+    "title": "Founding of the Lantern Order",
+    "body": [{ "type": "p", "text": "The [[lantern-order|Lantern Order]] is established to formalize the keeping of the flames." }]
+  },
+  {
+    "id": "lyra-born",
+    "category": "timeline",
+    "era": "Year 412",
+    "title": "Birth of Lyra Vane",
+    "body": [{ "type": "p", "text": "[[lyra-vane|Lyra Vane]] is born in Old Sereth." }]
+  },
+  {
+    "id": "second-dark",
+    "category": "timeline",
+    "era": "Year 437",
+    "title": "Return of the Long Dark",
+    "body": [{ "type": "p", "text": "The Long Dark returns. Lyra refuses to abandon her post." }]
+  }
+]

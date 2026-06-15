@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lantern-order",
+    "category": "lore",
+    "title": "The Lantern Order",
+    "subtitle": "Keepers of the sacred flame",
+    "image": "",
+    "tags": ["faction", "order"],
+    "info": {
+      "Type": "Religious order",
+      "Founded": "Year 110",
+      "Seat": "Old Sereth"
+    },
+    "body": [
+      { "type": "h2", "text": "Overview" },
+      { "type": "p", "text": "An order sworn to keep the great lanterns burning. Members give up their birth names and take the name of a flame upon joining." }
+    ]
+  },
+  {
+    "id": "the-long-dark",
+    "category": "lore",
+    "title": "The Long Dark",
+    "subtitle": "The recurring age of shadow",
+    "image": "",
+    "tags": ["event", "cosmic"],
+    "info": {
+      "Type": "Cosmic event",
+      "First recorded": "Year 1",
+      "Recurrence": "Roughly every 200 years"
+    },
+    "body": [
+      { "type": "h2", "text": "Overview" },
+      { "type": "p", "text": "A period in which natural light weakens and the world grows cold. Only the sacred flames are said to hold it at bay." }
+    ]
+  }
+]

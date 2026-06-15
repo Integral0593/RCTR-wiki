@@ -1,0 +1,22 @@
+[
+  {
+    "id": "old-sereth",
+    "category": "places",
+    "title": "Old Sereth",
+    "subtitle": "The lantern-city on the edge of the dark",
+    "image": "",
+    "tags": ["city", "capital"],
+    "info": {
+      "Type": "City",
+      "Region": "The Verge",
+      "Population": "~40,000",
+      "Notable for": "The Lantern-Towers"
+    },
+    "body": [
+      { "type": "h2", "text": "Overview" },
+      { "type": "p", "text": "Old Sereth sits at the boundary between the lit lands and the encroaching dark. Its towers burn day and night, tended by the [[lantern-order|Lantern Order]]." },
+      { "type": "h2", "text": "Districts" },
+      { "type": "ul", "items": ["The Tower Ward — home to the keepers", "The Ember Market — open only after dusk", "The Drowned Quarter — abandoned after the floods of Year 430"] }
+    ]
+  }
+]
